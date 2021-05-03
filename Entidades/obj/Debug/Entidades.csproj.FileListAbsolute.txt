@@ -1,0 +1,14 @@
+C:\DIsco2\Descargas\RGB-FUSION2\TiendaVirtual\Entidades\bin\Debug\Entidades.dll
+C:\DIsco2\Descargas\RGB-FUSION2\TiendaVirtual\Entidades\bin\Debug\Entidades.pdb
+C:\DIsco2\Descargas\RGB-FUSION2\TiendaVirtual\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\DIsco2\Descargas\RGB-FUSION2\TiendaVirtual\Entidades\obj\Debug\Entidades.dll
+C:\DIsco2\Descargas\RGB-FUSION2\TiendaVirtual\Entidades\obj\Debug\Entidades.pdb
+C:\Users\SS\Desktop\TiendaVirtual\Entidades\bin\Debug\Entidades.dll
+C:\Users\SS\Desktop\TiendaVirtual\Entidades\bin\Debug\Entidades.pdb
+C:\Users\SS\Desktop\TiendaVirtual\Entidades\obj\Debug\Entidades.dll
+C:\Users\SS\Desktop\TiendaVirtual\Entidades\obj\Debug\Entidades.pdb
+C:\Users\SS\Desktop\TiendaVirtual\TiendaVirtual\Entidades\bin\Debug\Entidades.dll
+C:\Users\SS\Desktop\TiendaVirtual\TiendaVirtual\Entidades\bin\Debug\Entidades.pdb
+C:\Users\SS\Desktop\TiendaVirtual\TiendaVirtual\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\SS\Desktop\TiendaVirtual\TiendaVirtual\Entidades\obj\Debug\Entidades.dll
+C:\Users\SS\Desktop\TiendaVirtual\TiendaVirtual\Entidades\obj\Debug\Entidades.pdb

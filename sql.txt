@@ -1,0 +1,7 @@
+
+INSERT INTO tabla_Clientes (dni,nombre,contraseña,direccion,telefono,tipo) VALUES ('12345678','Prueba1','123','555555555','No Premium')
+INSERT INTO tabla_Clientes (dni,nombre,contraseña,direccion,telefono,tipo) VALUES ('23456789','Prueba2','123','555555555','Premium')
+INSERT INTO tabla_Clientes (dni,nombre,contraseña,direccion,telefono,tipo) VALUES ('01234567','Prueba3','123','555555555','Administrador')
+INSERT INTO tabla_Producto (codigo,nombre,precio,stock) VALUES ('1','carne', 23.3,200)
+INSERT INTO tabla_Producto (codigo,nombre,precio,stock) VALUES ('2','producto1', 453.3,200)
+INSERT INTO tabla_Producto (codigo,nombre,precio,stock) VALUES ('3','producto2', 35.6,200)

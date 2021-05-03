@@ -1,0 +1,59 @@
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.exe.config
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.exe
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.pdb
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Form1.resources
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Properties.Resources.resources
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csproj.GenerateResource.Cache
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.exe
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.pdb
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csprojResolveAssemblyReference.cache
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmRealizarCompra.resources
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmRegistarUsuario.resources
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmCompra.resources
+c:\users\ss\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmModificarCompra.resources
+C:\Users\SS\documents\visual studio 2015\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmAdministrador.resources
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.exe.config
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.exe
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.pdb
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.exe
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.pdb
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Form1.resources
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmAdministrador.resources
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmCompra.resources
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmModificarCompra.resources
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmRealizarCompra.resources
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmRegistarUsuario.resources
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Properties.Resources.resources
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csproj.GenerateResource.Cache
+F:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csprojResolveAssemblyReference.cache
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.exe.config
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.exe
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.pdb
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csprojResolveAssemblyReference.cache
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Form1.resources
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmAdministrador.resources
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmCompra.resources
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmModificarCompra.resources
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmRealizarCompra.resources
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmRegistarUsuario.resources
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Properties.Resources.resources
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csproj.GenerateResource.Cache
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.exe
+H:\TiendaVirtual\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.pdb
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.exe.config
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.exe
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.pdb
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.exe
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.pdb
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csprojResolveAssemblyReference.cache
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Form1.resources
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmAdministrador.resources
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmCompra.resources
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmModificarCompra.resources
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmRealizarCompra.resources
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.frmRegistarUsuario.resources
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Properties.Resources.resources
+C:\Users\SS\Documents\Visual Studio 2015\Projects\TiendaVirtual\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csproj.GenerateResource.Cache
+C:\DIsco2\Descargas\RGB-FUSION2\TiendaVirtual\TiendaVirtual\bin\Debug\TiendaVirtual.exe.config
+C:\DIsco2\Descargas\RGB-FUSION2\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.exe
+C:\DIsco2\Descargas\RGB-FUSION2\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.pdb
